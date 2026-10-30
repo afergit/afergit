@@ -89,12 +89,12 @@ const afer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=afergit&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00fff5&text_color=c9d1d9&icon_color=ff00ff&border_color=1a2744&hide_border=false&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=afergit&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00fff5&text_color=c9d1d9&icon_color=ff00ff&border_color=1a2744&hide_border=false&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com?user=afergit&theme=github-dark-blue&background=0d1117&border=1a2744&ring=00fff5&fire=ff00ff&currStreakLabel=00fff5&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" width="49%" alt="Streak Stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afergit&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00fff5&text_color=c9d1d9&border_color=1a2744&hide_border=false&langs_count=8" width="42%" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=afergit&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00fff5&text_color=c9d1d9&border_color=1a2744&hide_border=false&langs_count=8&cache_seconds=86400" width="42%" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -119,12 +119,36 @@ const afer = {
 
 <div align="center">
 
-<a href="https://github.com/afergit/proyecto-eventos-aforo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afergit&repo=proyecto-eventos-aforo&theme=github_dark&bg_color=0d1117&title_color=00fff5&icon_color=ff00ff&text_color=c9d1d9&border_color=1a2744" width="49%"/>
-</a>
-<a href="https://github.com/afergit/traductor-de-fraude">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=afergit&repo=traductor-de-fraude&theme=github_dark&bg_color=0d1117&title_color=00fff5&icon_color=ff00ff&text_color=c9d1d9&border_color=1a2744" width="49%"/>
-</a>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- PROYECTO 1: Eventos Aforo                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📅 [Proyecto Eventos Aforo](https://github.com/afergit/proyecto-eventos-aforo)
+> Sistema de gestión de eventos y control de aforo con registro en tiempo real.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [Traductor de Fraude](https://github.com/afergit/traductor-de-fraude)
+> Herramienta de análisis y detección de patrones fraudulentos con IA.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
