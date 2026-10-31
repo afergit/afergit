@@ -5,6 +5,8 @@
 
 <br/>
 
+<br/>
+
 <!-- TYPING SVG INTERACTIVO -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1100&color=00FFF5&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=%E2%9A%A1+Software+Engineer+%7C+Cybersecurity+Specialist;%F0%9F%94%90+Designing+Resilient+Microservices+%26+Cloud+Security;%F0%9F%9A%80+Automating+Pipelines+%7C+Breaking+%26+Securing+Code" alt="Typing SVG"/>
@@ -171,11 +173,11 @@ const afer: SoftwareEngineer = {
 
 ```text
  ╔══════════════════════════════════════════════════════════════════╗
- ║                📡 SEC-OPS & ENGINEERING STATUS                 ║
+ ║                📡 SEC-OPS & ENGINEERING STATUS                  ║
  ╠══════════════════════════════════════════════════════════════════╣
  ║                                                                  ║
  ║   🟢 System Status .......... OPERATIONAL // ALL SYSTEMS GO      ║
- ║   🛡️ Focus Area ............. AppSec, Backend & Cloud Resilience  ║
+ ║   🛡️ Focus Area ............. AppSec, Backend & Cloud Resilience ║
  ║   ⚙️ Core Paradigm .......... Zero Trust & High Concurrency      ║
  ║   🌱 Ongoing Deep-Dive ...... Kubernetes Operators & Rust        ║
  ║   💬 Discussions ............ API Design, Threat Modeling        ║
